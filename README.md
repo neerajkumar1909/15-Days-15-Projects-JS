@@ -7,5 +7,5 @@ LIVE LINKS ====================================================
 05 Blurry Loading : https://blurryloading-neeraj.netlify.app/                                                                                                                                                           
 06 Scroll Animation : https://scrollanimation-neeraj.netlify.app/  
 07 Split Landing : https://splitlanding-neeraj.netlify.app/                                                                                                                                                              
-08 Wave Effect Form : https://waveeffectform-neeraj.netlify.app/
+08 Wave Effect Form : https://waveeffectform-neeraj.netlify.app/                                                                                                                                                      
 09 Sound bar : https://soundbar-neeraj.netlify.app/
