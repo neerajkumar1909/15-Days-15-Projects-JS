@@ -8,5 +8,5 @@ LIVE LINKS ====================================================
 06 Scroll Animation : https://scrollanimation-neeraj.netlify.app/  
 07 Split Landing : https://splitlanding-neeraj.netlify.app/                                                                                                                                                              
 08 Wave Effect Form : https://waveeffectform-neeraj.netlify.app/                                                                                                                                                      
-09 Sound bar : https://soundbar-neeraj.netlify.app/
+09 Sound bar : https://soundbar-neeraj.netlify.app/                                                                                                                                                                    
 10 Joke Creator : https://jokecreator-neeraj.netlify.app/
