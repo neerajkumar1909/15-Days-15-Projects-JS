@@ -13,5 +13,5 @@ LIVE LINKS ====================================================
 11 Keyboard KeyTracker : https://keytracker-neeraj.netlify.app/                                                                                                                                                       
 12 FAQ Dropdown : https://accordion-neeraj.netlify.app/                                                                                                                                                              
 13 Random Choice Picker : https://random-choice-picker-neeraj.netlify.app/                                                                                                                                             
-14 Animated Navbar : https://animatednavbar-neeraj.netlify.app/
+14 Animated Navbar : https://animatednavbar-neeraj.netlify.app
 15 Increment Counter : https://incrementcount-neeraj.netlify.app/
